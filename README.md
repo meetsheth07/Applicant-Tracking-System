@@ -2,7 +2,7 @@
 
 HireFlow is a premium, AI-powered Applicant Tracking System (ATS) designed for modern hiring teams. It streamlines the recruitment process from job creation to candidate hiring with a sleek, dark-themed interface and integrated Google Gemini AI for resume intelligence.
 
-![HireFlow UI Preview](https://via.placeholder.com/1200x600/030712/purple?text=HireFlow+Premium+ATS+UI)
+
 
 ## ✨ Features
 
