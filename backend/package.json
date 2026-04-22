@@ -1,0 +1,20 @@
+{
+  "name": "ats-backend",
+  "version": "1.0.0",
+  "description": "Micro-SaaS ATS Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@clerk/express": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "@google/generative-ai": "latest",
+    "multer": "latest",
+    "pdf-parse": "latest"
+  }
+}
